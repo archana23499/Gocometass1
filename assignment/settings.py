@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'e3xa&&rgmn7)o&q@y5%q2_4400@1&i9tu%*l779!2w@yf7*rcs'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['gocometasgnmt1.herokuapp.com','127.0.0.1']
 
